@@ -1,7 +1,11 @@
-# Academic Pages
-**Academic Pages is a Github Pages template for academic websites.**
+# About Me
+**I am still learning webpage editing by using the Academic Pages template from Github**
+Hello! I am Ying HUANG (you can also call me Carilla), a PhD student at the Hong Kong University of Science and Technology (HKUST) and currently a visiting scholar at the Southern University of Science and Technology (SUSTech) in Shenzhen.
 
-# Getting Started
+My research focuses on the embryonic development of hematopoietic stem cells in mice and zebrafish, utilizing techniques such as lineage tracing, transcriptomic analysis, and live imaging. In addition to my core work, I'm deeply interested in wildlife, animal evolution, and aspire to unravel the evolutionary mysteries of cell differentiation from a developmental biology perspective.
+
+# My work and research
+
 
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Click the "Use this template" button in the top right.
@@ -13,7 +17,7 @@
 
 See more info at https://academicpages.github.io/
 
-## Running locally
+## My background and history
 
 When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
 
@@ -35,7 +39,7 @@ When you are initially working your website, it is very useful to be able to pre
 
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
-## Using Docker
+## My intellectual communities
 
 Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
 
